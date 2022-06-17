@@ -27,4 +27,8 @@ Therefore, the unit of the universal gas constant is $\text{J.K}^{-1}.\text{mole
 
 Again,
 
-$$\text{force}=\dfrac{\text{mass}\times\text{length}}{(\text{time})^2}$$
+$$\text{force}=\dfrac{\text{mass}\times\text{length}}{(\text{time})^2}.$$
+
+Therefore,
+$$R=\dfrac{\text{mass} \times (\text{length})^2}{\text{amount} \times \text{temperature}\times(\text{time})^2}$$
+
