@@ -27,4 +27,4 @@ Therefore, the unit of the universal gas constant is $\text{J.K}^{-1}.\text{mole
 
 Again,
 
-$$\text{force}=\dfrac{\text{mass}\times\text{length}}{\text{time}\times\text{time}}
+$$\text{force}=\dfrac{\text{mass}\times\text{length}}{(\text{time})^2}$$
