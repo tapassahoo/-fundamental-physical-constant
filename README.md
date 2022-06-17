@@ -30,5 +30,7 @@ Again,
 $$\text{force}=\dfrac{\text{mass}\times\text{length}}{(\text{time})^2}.$$
 
 Therefore,
-$$R=\dfrac{\text{mass} \times (\text{length})^2}{\text{amount} \times \text{temperature}\times(\text{time})^2}$$
+$$R=\dfrac{\text{mass} \times (\text{length})^2}{\text{amount} \times \text{temperature}\times(\text{time})^2}$$.
+
+Then, the unit becoms kg⋅m$^2$⋅s$^{−2}$⋅K$^{−1}$⋅mol$^{−1}$.
 
