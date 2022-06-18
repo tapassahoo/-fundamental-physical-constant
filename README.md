@@ -67,10 +67,10 @@ In SI unit,
 $$
 \begin{align*}
 \bigg(\dfrac{\hbar}{2m\omega}\bigg)^{1/2}&=\bigg(\dfrac{\text{J.s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
-&=\bigg(\dfrac{\text{work}\times \text{s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
-&=\bigg(\dfrac{\text{force}\times\text{length}\times \text{s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
-&=\bigg(\dfrac{\text{mass}\times\text{acceleration}\times\text{length}\times \text{s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
-&=\bigg(\dfrac{\text{kg}.\text{m.s}^{-2}.\text{m.s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
+&=\bigg(\dfrac{\text{work}\times \text{s}^{-1}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
+&=\bigg(\dfrac{\text{force}\times\text{length}\times \text{s}^{-1}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
+&=\bigg(\dfrac{\text{mass}\times\text{acceleration}\times\text{length}\times \text{s}^{-1}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
+&=\bigg(\dfrac{\text{kg}.\text{m.s}^{-2}.\text{m.s}^{-1}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
 &=\bigg(\dfrac{\cancel{\text{kg}}.\text{m}^2.\cancel{\text{s}^{-2}}.\cancel{\text{s}}}{\cancel{\text{kg}}.\cancel{\text{s}^{-1}}}\bigg)^{1/2}\\
 &=\sqrt{m^2} \\
 &=m.
@@ -84,7 +84,8 @@ $$
 i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}&=\sqrt{m\omega\hbar}\\
 &=\sqrt{\text{kg}.\text{s}.\text{J.s}}\\
 &=\sqrt{\text{kg}.\text{s}.\text{work.s}}\\
-&=\sqrt{\text{kg}.\text{s}.\text{force} \times \text{length} \times \text{s}}\\
+&=\sqrt{\text{kg}\times\text{s}\times\text{force}\times\text{length}\times\text{s}}\\
+&=\sqrt{\text{kg}\times\text{s}\times\text{mass}\times\text{length}\times\text{s}^{-2}\times\text{length}\times\text{s}}\\
 \end{align*}
 $$
 
