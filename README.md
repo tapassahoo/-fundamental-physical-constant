@@ -95,6 +95,13 @@ $$
 
 Unit of force constant can be determined by using the below relations:
 
-$$F=-k.x$$
+$$
+\begin{align*}
+F&=-k.x\\
+k&=\dfrac{F}{x}\\
+&=\dfrac{\text{kg}.\text{m}.\text{s}^{-2}}{\text{m}}\\
+&=\dfrac{\text{kg}.\cancel{\text{m}}.\text{s}^{-2}}{\cancel{\text{m}}}\\
+\end{align*}
+$$
 
 
