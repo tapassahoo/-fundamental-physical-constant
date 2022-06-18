@@ -37,6 +37,8 @@ Then, the unit becoms kg⋅m$^2$⋅s$^{−2}$⋅K$^{−1}$⋅mol$^{−1}$.
 | Component | Reference | Symbol |
 | --------------- | --------------- | --------------- |
 | Time | Second | s|
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Space | Meter | m |
+| Mass| Kilogram | Kg |
+| Charge|Coulomb|C|
+|Temperature|Kelvin|K|
 
