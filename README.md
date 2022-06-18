@@ -34,6 +34,8 @@ $$R=\dfrac{\text{mass} \times (\text{length})^2}{\text{amount} \times \text{temp
 
 Then, the unit becoms kg⋅m$^2$⋅s$^{−2}$⋅K$^{−1}$⋅mol$^{−1}$.
 
+----
+
 | Component | Reference | Symbol |
 | --------------- | --------------- | --------------- |
 | Time | Second | s|
