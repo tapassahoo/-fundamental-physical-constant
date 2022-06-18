@@ -85,7 +85,11 @@ i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}&=\sqrt{m\omega\hbar}\\
 &=\sqrt{\text{kg}.\text{s}^{-1}.\text{J.s}}\\
 &=\sqrt{\text{kg}.\cancel{\text{s}^{-1}}.\text{work}.\cancel{\text{s}}}\\
 &=\sqrt{\text{kg}\times\text{force}\times\text{length}}\\
-&=\sqrt{\text{kg}\times\text{mass}\times\text{length}\times\text{s}^{-2}\times\text{length}}\\
+&=\sqrt{\text{kg}\times\text{mass}\times\text{length}\times\text{time}^{-2}\times\text{length}}\\
+&=\sqrt{\text{kg}\times\text{kg}\times\text{m}\times\text{s}^{-2}\times\text{m}}\\
+&=\sqrt{(\text{kg}.\text{m}.\text{s}^{-1})^2}\\
+&=\text{kg}.\text{m}.\text{s}^{-1}\\
+&=\text{unit of momentum}
 \end{align*}
 $$
 
