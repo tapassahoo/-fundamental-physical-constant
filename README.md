@@ -56,10 +56,20 @@ The position and momentum operators for a simple harmonic oscillator can be expr
 $$
 \begin{align*}
 \hat{x}&=\big(\dfrac{\hbar}{2m\omega}\big)^{1/2}(\hat{a}^{\dagger}+\hat{a}),\\
-\hat{p}&=i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}(\hat{a}^{\dagger}-\hat{a}),\\
+\hat{p}&=i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}(\hat{a}^{\dagger}-\hat{a}),
 \end{align*}
 $$
 
-where $\hat{a}^{\dagger} \ \text{and} \ \hat{a}$ are commonly known as `raising` and `lowering` operators, respectively.
+where $\hat{a}^{\dagger} \ \text{and} \ \hat{a}$ are commonly known as `raising` and `lowering` operators, respectively. Above equalities manifest that the unit of the position and momentum operators must be same as the prefactors associted with their definitions.
+
+In SI unit,
+
+$$
+\begin{align*}
+\bigg(\dfrac{\hbar}{2m\omega}\bigg)^{1/2}&=\bigg(\dfrac{\text{J.s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
+&=\bigg(\dfrac{\text{work.displacement.s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
+\end{align*}
+$$
+
 
 
