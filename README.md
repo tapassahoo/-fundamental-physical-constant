@@ -14,10 +14,11 @@
 
 | Constant        | Label           | Value           | Measure Reference   |
 | --------------- | --------------- | --------------- | ------------------ |
-| Speed of Light  | c               | 2.99792458 $\times$ 10$^8$ | m.s$^{-1}$ | 
-| Planck's Constant| h              | 6.62606957 $\times$ 10$^{-34}$ | J.s = kg.m$^2$.s$^{-1}$|
-| Boltzmann Constant | k$_{\text{B}}$ | 1.3806503 $\times$ 10$^{-23}$ | J.$\text{K}^{-1}$ = kg.m$^2$.s$^{-2}$.$\text{K}^{-1}$  |
-| Molar Gas Constant | R | 8.3145   | $\text{J.K}^{-1}.\text{mole}^{-1}$|
+| Speed of Light  | c               | 2.99792458 $\times$ 10$^8$ | $\text{m.s}^{-1}$ | 
+| Planck's Constant| h              | 6.62606957 $\times$ 10$^{-34}$ | $\text{J.s} = \text{kg.m}^2.\text{s}^{-1}$|
+| Boltzmann Constant | k$_{\text{B}}$ | 1.3806503 $\times$ 10$^{-23}$ | $\text{J.K}^{-1} = \text{kg.m}^2.\text{s}^{-2}.\text{K}^{-1}$ |
+| Molar Gas Constant | R | 8.3145   | $\text{J.K}^{-1}.\text{mol}^{-1}$|
+| Faraday Constant.  | F | 96485.332 | $\text{C.mol}^{-1}$|
 
 
 
