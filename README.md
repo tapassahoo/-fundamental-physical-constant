@@ -93,6 +93,8 @@ i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}&=\sqrt{m\omega\hbar}\\
 \end{align*}
 $$
 
+Unit of force constant can be determined by using the below relations:
 
+$$F=-k.x$$
 
 
