@@ -34,7 +34,7 @@ $$R=\dfrac{\text{mass} \times (\text{length})^2}{\text{amount} \times \text{temp
 
 Then, the unit becoms kg⋅m$^2$⋅s$^{−2}$⋅K$^{−1}$⋅mol$^{−1}$.
 
-----
+= List of components of the system and associated reference units.
 
 | Component | Reference | Symbol |
 | --------------- | --------------- | --------------- |
