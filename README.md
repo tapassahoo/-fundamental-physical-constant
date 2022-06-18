@@ -79,8 +79,12 @@ $$
 
 Similarly,
 
+$$
 \begin{align*}
-i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}&=i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}\\
+i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}&=\sqrt{m\omega\hbar}\\
+&=\sqrt{\text{kg}.\text{s}.\text{J.s}}\\
+&=\sqrt{\text{kg}.\text{s}.\text{work.s}}\\
+&=\sqrt{\text{kg}.\text{s}.\text{force}\times \text{length}\times\text{s}}}\\
 \end{align*}
 $$
 
