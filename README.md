@@ -83,9 +83,9 @@ $$
 \begin{align*}
 i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}&=\sqrt{m\omega\hbar}\\
 &=\sqrt{\text{kg}.\text{s}^{-1}.\text{J.s}}\\
-&=\sqrt{\text{kg}.\text{s}^{-1}.\text{work.s}}\\
+&=\sqrt{\text{kg}.\cancel{\text{s}^{-1}}.\text{work}.\cancel{\text{s}}}\\
 &=\sqrt{\text{kg}\times\text{s}^{-1}\times\text{force}\times\text{length}\times\text{s}}\\
-&=\sqrt{\text{kg}\times\text{s}^{-1}\times\text{mass}\times\text{length}\times\text{s}^{-2}\times\text{length}\times\text{s}}\\
+&=\sqrt{\text{kg}\times\cancel{\text{s}^{-1}}\times\text{mass}\times\text{length}\times\text{s}^{-2}\times\text{length}\times\text{s}}\\
 \end{align*}
 $$
 
