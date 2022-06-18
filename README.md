@@ -59,6 +59,7 @@ $$
 \hat{p}&=i\big(\dfrac{m\omega\hbar}{2}\big)^{1/2}(\hat{a}^{\dagger}-\hat{a}),\\
 \end{align*}
 $$
-where $\hat{a}^{\dagger}$
+
+where $\hat{a}^{\dagger}$ and $\hat{a}$ are commonly known as `raising` and `lowering` operators, respectively.
 
 
