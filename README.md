@@ -101,6 +101,7 @@ F&=-k.x\\
 k&=\dfrac{F}{x}\\
 &=\dfrac{\text{kg}.\text{m}.\text{s}^{-2}}{\text{m}}\\
 &=\dfrac{\text{kg}.\cancel{\text{m}}.\text{s}^{-2}}{\cancel{\text{m}}}\\
+&=\text{kg}.\text{s}^{-2}.\\
 \end{align*}
 $$
 
