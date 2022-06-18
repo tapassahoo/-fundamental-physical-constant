@@ -1,32 +1,27 @@
 
 ### List of components of the system and associated reference units.
 
-| Component | Reference | Symbol |
+| Component       | Reference       | Symbol          |
 | --------------- | --------------- | --------------- |
 | Oscillation     | Cycle           | Cy              |
 | Time            | Second          | s               |
 | Space           | Meter           | m               |
-| Mass            | Kilogram        | Kg              |
+| Mass            | Kilogram        | kg              |
 | Charge          | Coulomb         | C               |
 | Temperature     | Kelvin          | K               |
 
 ### List of the measured constants of nature from the NIST standard and associated reference units. 
 
-| Constant        | Label           | Value           |Measure Reference|
-| --------------- | --------------- | --------------- | --------------- |
+| Constant        | Label           | Value           | Measure Reference   |
+| --------------- | --------------- | --------------- | ------------------ |
 | Speed of Light  | c               | 2.99792458 $\times$ 10$^8$ | m.s$^{-1}$ | 
-| Planck's Constant|Second          | s               |                 |
-| Boltzmann Constant | Meter | m | |
-| Permittivity       | Kilogram | Kg | |
+| Planck's Constant| h              | 6.62606957 $\times$ 10$^{-34}$ | J.s = kg.m$^2$.s$^{-1}$|
+| Boltzmann Constant | k$_{\text{B}}$ | 1.3806503 $\times$ 10$^{-23}$ | J.$\text{K}^{-1}$ = kg.m$^2$.s$^{-2}$.$\text{K}^{-1}$  |
+| Molar Gas Constant | R | 8.3145   | $\text{J.K}^{-1}.\text{mole}^{-1}$|
 
 
-$$
-\begin{align*}
-k_B &=1.380649×10^{-23} \ \text{J.K}^{-1}, \hspace{10mm} \text{where} \hspace{10mm} \text{J.K}^{-1} = \text{m}^2⋅\text{kg}/(\text{s}^2⋅\text{K}) \\
-R &= 8.314 \ \text{J.K}^{-1}.\text{mole}^{-1} \\
-F &= 96,484.56 \ \text{C.mole}^{-1} 
-\end{align*}
-$$
+
+$$F = 96,484.56 \ \text{C.mole}^{-1} $$
 
 ### Dimensions
 From the ideal gas law $PV = nRT$ we get:
