@@ -51,7 +51,7 @@ Then, the unit becoms kg⋅m$^2$⋅s$^{−2}$⋅K$^{−1}$⋅mol$^{−1}$.
 
 - [X] **Some Quantities Associated with Simple Harmonic Oscillator**
 
-The position and momentum operators for a simple harmonic oscillator can be expressed in terms for lader operators, $\hat{a}$ and $\hat{a}^{\textdagger}$, as "$dagger$"
+The position and momentum operators for a simple harmonic oscillator can be expressed in terms for lader operators, $\hat{a}$ and $\hat{a}^{\ast}$, as
 
 
 
