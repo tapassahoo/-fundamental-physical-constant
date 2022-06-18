@@ -70,6 +70,7 @@ $$
 &=\bigg(\dfrac{\text{work}\times \text{s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
 &=\bigg(\dfrac{\text{force}\times\text{length}\times \text{s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
 &=\bigg(\dfrac{\text{mass}\times\text{acceleration}\times\text{length}\times \text{s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
+&=\bigg(\dfrac{\text{kg}.\text{m.s}^{-2}.\text{m.s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
 \end{align*}
 $$
 
