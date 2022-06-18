@@ -67,7 +67,7 @@ In SI unit,
 $$
 \begin{align*}
 \bigg(\dfrac{\hbar}{2m\omega}\bigg)^{1/2}&=\bigg(\dfrac{\text{J.s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
-&=\bigg(\dfrac{\text{work.displacement.s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
+&=\bigg(\dfrac{\text{work}\times\text{length\times s}}{\text{kg.s}^{-1}}\bigg)^{1/2}\\
 \end{align*}
 $$
 
