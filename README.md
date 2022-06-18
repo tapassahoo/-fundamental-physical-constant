@@ -60,6 +60,6 @@ $$
 \end{align*}
 $$
 
-where $\hat{a}^{\dagger} \ \text{and} \ \hat{a}$ are commonly known as `raising` and `lowering` operators, respectively.
+where `$\hat{a}^{\dagger} \ \text{and} \ \hat{a}$` are commonly known as `raising` and `lowering` operators, respectively.
 
 
