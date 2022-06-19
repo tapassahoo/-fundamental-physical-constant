@@ -20,21 +20,21 @@
 | Molar Gas Constant | R | 8.3145   | $\text{J.K}^{-1}.\text{mol}^{-1}$|
 | Faraday Constant.  | F | 96484.56 | $\text{C.mol}^{-1}$|
 
-### Determination of Dimensions
+### Determination of units
 
 - [X] **Gas Constant R**
-From the ideal gas law $PV = nRT$ we get:
+   From the ideal gas law $PV = nRT$ we get:
 
 $$
 \begin{align*}
 R&=\dfrac{PV}{nT} \\
 &=\dfrac{\dfrac{\text{force}}{\text{area}}\times \text{volume}}{\text{amount} \times \text{temperature}} \\
-&=\dfrac{\dfrac{\text{force}}{(\cancel{\text{length}}\times \cancel{\text{length}})} \times (\cancel{\text{length}}\times\cancel{\text{length}}\times\text{length})}{\text{amount} \times \text{temperature}} \\
+&=\dfrac{\dfrac{\text{force}}{(\cancel{\text{length}}\times \cancel{\text{length}})} \times      (\cancel{\text{length}}\times\cancel{\text{length}}\times\text{length})}{\text{amount} \times \text{temperature}} \\
 &=\dfrac{\text{force} \times \text{length}}{\text{amount} \times \text{temperature}}
 \end{align*}
 $$
 
-Since $\text{force} \times \text{length} = \text{work}$:
+   Since $\text{force} \times \text{length} = \text{work}$:
 
 $$R=\dfrac{\text{work}}{\text{amount} \times \text{temperature}}.$$
 
@@ -65,7 +65,7 @@ $$
 $$
   
   
-  2) The position and momentum operators for a simple harmonic oscillator can be expressed as
+  - [ ] The position and momentum operators for a simple harmonic oscillator can be expressed as
 
 $$
 \begin{align*}
