@@ -49,9 +49,23 @@ $$R=\dfrac{\text{mass} \times (\text{length})^2}{\text{amount} \times \text{temp
 
 Then, the unit becoms kg⋅m$^2$⋅s$^{−2}$⋅K$^{−1}$⋅mol$^{−1}$.
 
-- [X] **Some Quantities Associated with Simple Harmonic Oscillator**
+- [X] **Some quantities associated with a simple harmonic oscillator**
 
-The position and momentum operators for a simple harmonic oscillator can be expressed as
+  1) Unit of potential energy
+  
+$$
+\begin{align*}
+\hat{V}(\hat{x})&=\dfrac{1}{2}m\omega^2\hat{x}^2\\
+&=\text{mass}.\text{time}^{-2}.\text{length}^2\\
+&=\text{mass}.(\text{length}.\text{time}^{-2}).\text{length}\\
+&=(\text{mass}.\text{acceleration}).\text{length}\\
+&=\text{force}.\text{length}\\
+&=\text{work/energy}.
+\end{align*}
+$$
+  
+  
+  2) The position and momentum operators for a simple harmonic oscillator can be expressed as
 
 $$
 \begin{align*}
@@ -61,6 +75,16 @@ $$
 $$
 
 where $\hat{a}^{\dagger} \ \text{and} \ \hat{a}$ are commonly known as `raising` and `lowering` operators, respectively. Above equalities manifest that the unit of the position and momentum operators must be same as the prefactors associted with their definitions.
+
+$$
+\begin{align*}
+F&=-k.x\\
+k&=\dfrac{F}{x}\\
+&=\dfrac{\text{kg}.\text{m}.\text{s}^{-2}}{\text{m}}\\
+&=\dfrac{\text{kg}.\cancel{\text{m}}.\text{s}^{-2}}{\cancel{\text{m}}}\\
+&=\text{kg}.\text{s}^{-2}.\\
+\end{align*}
+$$
 
 In SI unit,
 
